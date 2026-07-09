@@ -1,60 +1,73 @@
-<hr></hr>
-<p align="center">
-  <samp>
-<!---
-
---->
-
-<h3 align="center">
-	<a href="https://md-shadab-azam-ansari.vercel.app/">Hi, I'm Shadab Azam Ansari!</a>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3> <a href="https://github.com/sazamansari/sazamansari/"> </a>
-<br/>
+```markdown
+<h1 align="center">Hi, I'm Vaanya Verma 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;Open%20Source%20|%20DevOps%20|%20Web+Development%20Enthusiastic;Always%20learning%20new%20things&center=true&width=640&height=45"></a>
+  <strong>Aspiring Software Developer</strong><br>
+  B.Tech CSE Student at Chitkara University
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vaanya-verma-1a172739b">LinkedIn</a> •
+  <a href="https://www.instagram.com/vaanyavermaa">Instagram</a> •
+  <a href="https://www.youtube.com/@VaanyaVermaa">YouTube</a>
 </p>
 
 ---
-<!-- <h1><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I’m Shadab azam ansari</h1> -->
-<h3>I'm a Software Engineer.</h3>
 
-* 🎓 B.Tech in Computer Science, Galgotias University (2018–2022)
-* 👀 Passionate about open source and programming (Node.JS, Python, JavaScript)
-* 💬 DevOps toolkit: Docker · Kubernetes · Jenkins · GitHub Actions · Terraform · Ansible · AWS (EC2, S3, Lambda) · Prometheus · Grafana
-* 💞️ Seeking collaboration on open-source projects
-* 💡 Sharpening Java data structures & algorithms and DevOps expertise with Amazon web service.
-* 📚 Dedicated to continuous learning and growth
+## About Me
 
+- B.Tech in Computer Science and Applications (2025–2029)
+- Studying at **Chitkara University**
+- Based in **Kurukshetra, Haryana**
+- Currently learning **Data Structures & Algorithms, React, and Web Development**
+- Passionate about building real-world projects and continuously improving my development skills
+- Interested in **Web Development, Open Source, and Artificial Intelligence**
+- Participated in **Hack Helix** at Thapar University
 
 ---
-<!-- <h2>📫 How to reach me:</h2> <br>
-<a href="mailto:ansarimomshadabazam@gmail.com" target="_blank"><img src="images/official-gmail-icon.svg" alt="Gmail Logo" width="50"></a>&emsp;
-<a href="https://www.linkedin.com/in/sazamansari/" target="_blank"><img src="images/linkedin-icon-2.svg" alt="LinkedIn Logo" width="50"></a>&emsp; 
 
-<hr/> -->
-<h2> 🥞 Tech Stack</h2>
-<p align="center">
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%23ffd2ce.svg?style=for-the-badge&logo=css3&logoColor=140200"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23e4626b.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="React" src="https://img.shields.io/badge/nodejs-%23f2ca61.svg?style=for-the-badge&logo=nodejs&logoColor=%2361DAFB"/>
-<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwind css-%23fca9ae.svg?style=for-the-badge&logo=tailwind-css&logoColor=140200"/>
-<img alt="Java" src="https://img.shields.io/badge/java-%23e4626b.svg?style=for-the-badge&logo=java&logoColor=140200"/>
-<img alt="Python" src="https://img.shields.io/badge/python-%23fca9ae.svg?style=for-the-badge&logo=python&logoColor=140200"/>
-<img alt="Github" src="https://img.shields.io/badge/github-%23e4626b.svg?style=for-the-badge&logo=github&logoColor=140200"/>
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-f2ca61.svg?style=for-the-badge&logo=visual-studio-code&logoColor=140200"/>
-<!-- <img alt="Figma" src="https://img.shields.io/badge/figma-%23ffd2ce.svg?style=for-the-badge&logo=figma&logoColor=140200" /> -->
-<img alt="Canva" src="https://img.shields.io/badge/Canva-f2ca61.svg?style=for-the-badge&logo=canva&logoColor=140200"/>
-<img alt="Figma" src="https://img.shields.io/badge/figma-%23e4626b.svg?style=for-the-badge&logo=figma&logoColor=140200" />
-<!-- <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe after effects-%23fca9ae.svg?style=for-the-badge&logo=Adobe-after-effects&logoColor=140200" /> -->
-  </p>
-<br>
-	  
-<!-- ## Stats 📈 -->
+## Tech Stack
 
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-</div>
+### Technologies
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-[![Shadab's GitHub stats](https://stats.quine.sh/Shadab/github)](https://quine.sh/profile/Shadab)
+---
+
+## Currently Learning
+
+- Data Structures & Algorithms
+- React
+- Full Stack Web Development
+- Git & GitHub
+
+---
+
+## Featured Projects
+
+Projects coming soon...
+
+---
+
+## Connect With Me
+
+- GitHub: https://github.com/vaanyaverma-web
+- LinkedIn: https://www.linkedin.com/in/vaanya-verma-1a172739b
+- YouTube: https://www.youtube.com/@VaanyaVermaa
+- Email: vermavaanya2006@gmail.com
+```
+
